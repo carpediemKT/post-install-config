@@ -98,10 +98,33 @@ Navigate to Users Setting, Make sure "Require registration and login to create t
 <img width="722" alt="Screen Shot 2023-04-13 at 11 40 29 AM" src="https://user-images.githubusercontent.com/88648101/231814792-177daccc-b8d7-4c22-9387-931062a1c540.png">
 <img width="1013" alt="Screen Shot 2023-04-13 at 11 45 13 AM" src="https://user-images.githubusercontent.com/88648101/231814825-60b13c05-9cf7-410c-b0c4-959c001cd38b.png">
 <img width="1035" alt="Screen Shot 2023-04-13 at 11 48 40 AM" src="https://user-images.githubusercontent.com/88648101/231814987-cf9af747-6e70-4bc6-b5f4-a1b6b5b18669.png">
-
 </p>
 <p>
 Navigate to Agents and , add new Agents; Jane Doe, and John Doe.
+</p>
+<br />
+
+
+<h3>Configuring Users</h3>
+<p>Agent Panel -> Users -> Add New</p>
+<p>
+<img width="1034" alt="Screen Shot 2023-04-13 at 11 53 53 AM" src="https://user-images.githubusercontent.com/88648101/231816147-21a4c4f3-d60f-4f68-a1fd-cd32ca3d6c77.png">
+<img width="780" alt="Screen Shot 2023-04-13 at 11 55 58 AM" src="https://user-images.githubusercontent.com/88648101/231816751-6839c304-c540-4c84-9e8d-cfa1edb2f819.png">
+<img width="1025" alt="Screen Shot 2023-04-13 at 11 56 51 AM" src="https://user-images.githubusercontent.com/88648101/231816991-c51b33a9-f1bd-43cc-ba79-53d6d78576cb.png">
+</p>
+<p>
+Navigate to Users under Agent Panel and Add a new user; Kentrel and Kumba
+</p>
+<br />
+
+
+<h3>Configuring SLA's</h3>
+<p>Admin Panel -> Manager -> SLA</p>
+<p>
+
+</p>
+<p>
+Navigate to Users under Agent Panel and Add a new user; Kentrel and Kumba
 </p>
 <br />
 
