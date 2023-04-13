@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Roles
 - Configure Departments
 - Configure Teams
-- Configure Tickets
+- Configure Tickets Permissions
 - Configure Agents
 - Configure Users
 - Configure SLA
@@ -87,6 +87,21 @@ Navigate to Teams, add new Team and call it A-Team. Add yourself as a memeber.
 </p>
 <p>
 Navigate to Users Setting, Make sure "Require registration and login to create tickets" is unchecked. This is to allow everyone the priviledge to create tickets.
+</p>
+<br />
+
+<h3>Configuring Agents</h3>
+<p>Admin Panel -> Agents -> Add New</p>
+<p>
+<img width="1166" alt="Screen Shot 2023-04-13 at 11 36 55 AM" src="https://user-images.githubusercontent.com/88648101/231811692-69719cce-7d3a-48d6-9c31-457f50ab054e.png">
+<img width="926" alt="Screen Shot 2023-04-13 at 11 43 40 AM" src="https://user-images.githubusercontent.com/88648101/231814750-dafb1935-deea-43c8-9f0a-70355dc20f0b.png">
+<img width="722" alt="Screen Shot 2023-04-13 at 11 40 29 AM" src="https://user-images.githubusercontent.com/88648101/231814792-177daccc-b8d7-4c22-9387-931062a1c540.png">
+<img width="1013" alt="Screen Shot 2023-04-13 at 11 45 13 AM" src="https://user-images.githubusercontent.com/88648101/231814825-60b13c05-9cf7-410c-b0c4-959c001cd38b.png">
+<img width="1035" alt="Screen Shot 2023-04-13 at 11 48 40 AM" src="https://user-images.githubusercontent.com/88648101/231814987-cf9af747-6e70-4bc6-b5f4-a1b6b5b18669.png">
+
+</p>
+<p>
+Navigate to Agents and , add new Agents; Jane Doe, and John Doe.
 </p>
 <br />
 
