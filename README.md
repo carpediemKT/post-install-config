@@ -24,6 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Roles
 - Configure Departments
 - Configure Teams
+- Configure Tickets
 - Configure Agents
 - Configure Users
 - Configure SLA
@@ -54,12 +55,39 @@ Navigate to Roles and create an Admin called Highest Admin. Assign them all the 
 </p>
 <br />
 
-<p>Configuring Departments</p>
+<h3>Configuring Departments</h3>
 <p>Admin Panel -> Agents -> Departments</p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1056" alt="Screen Shot 2023-04-13 at 8 49 02 AM" src="https://user-images.githubusercontent.com/88648101/231763560-0a7c080a-6177-4d2c-a56c-7c92c527f9ed.png">
+<img width="1139" alt="Screen Shot 2023-04-13 at 8 52 53 AM" src="https://user-images.githubusercontent.com/88648101/231764925-51b25752-6e2f-4618-b971-e4859666df00.png">
+<img width="1098" alt="Screen Shot 2023-04-13 at 8 56 14 AM" src="https://user-images.githubusercontent.com/88648101/231765425-9f09428a-7dfc-4c87-a4cb-131d87ef3777.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to Departments, add new Departments and call it System Administrators.
 </p>
 <br />
+
+<h3>Configuring Teams</h3>
+<p>Admin Panel -> Agents -> Teams</p>
+<p>
+<img width="1065" alt="Screen Shot 2023-04-13 at 9 20 18 AM" src="https://user-images.githubusercontent.com/88648101/231772726-bbc55563-6fab-4171-a79a-b97fbec25143.png">
+<img width="1058" alt="Screen Shot 2023-04-13 at 9 22 02 AM" src="https://user-images.githubusercontent.com/88648101/231772795-658bbd26-5811-4211-b821-f89c61af4e82.png">
+<img width="1044" alt="Screen Shot 2023-04-13 at 9 22 15 AM" src="https://user-images.githubusercontent.com/88648101/231772840-839165cd-a00f-4433-858b-0eb9d7d19dab.png">
+
+</p>
+<p>
+Navigate to Teams, add new Team and call it A-Team. Add yourself as a memeber.
+</p>
+<br />
+
+<h3>Configuring Tickets</h3>
+<p>Admin Panel -> Settings -> Users - Authentication Settings</p>
+<p>
+<img width="1040" alt="Screen Shot 2023-04-13 at 9 33 56 AM" src="https://user-images.githubusercontent.com/88648101/231775408-174e98b5-8a5a-4183-90a9-adb8666c3689.png">
+</p>
+<p>
+Navigate to Users Setting, Make sure "Require registration and login to create tickets" is unchecked. This is to allow everyone the priviledge to create tickets.
+</p>
+<br />
+
+
