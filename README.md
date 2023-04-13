@@ -41,15 +41,21 @@ If you followed my previous post on how to install and setup os Ticket. On Login
 <br />
 
 <h3>Configuring Roles</h3>
-
+<p>Admin Panel -> Agents -> Roles</p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1095" alt="Screen Shot 2023-04-13 at 8 30 41 AM" src="https://user-images.githubusercontent.com/88648101/231758904-938200cb-0390-4bb7-911a-cffe19e667a3.png">
+<img width="1055" alt="Screen Shot 2023-04-13 at 8 34 25 AM" src="https://user-images.githubusercontent.com/88648101/231759837-ce7afe77-8155-4112-966f-4032177295e1.png">
+<img width="1077" alt="Screen Shot 2023-04-13 at 8 36 23 AM" src="https://user-images.githubusercontent.com/88648101/231760513-95eb3ec5-b69b-47db-8fc8-e5171b07ed86.png">
+<img width="1108" alt="Screen Shot 2023-04-13 at 8 36 44 AM" src="https://user-images.githubusercontent.com/88648101/231760644-a783469c-7631-4e49-a471-52cbfeb6ac67.png">
+<img width="1084" alt="Screen Shot 2023-04-13 at 8 36 52 AM" src="https://user-images.githubusercontent.com/88648101/231760662-a1f2d527-3d0e-4749-aaeb-cf5e65152f3f.png"><img width="1056" alt="Screen Shot 2023-04-13 at 8 40 18 AM" src="https://user-images.githubusercontent.com/88648101/231761272-35eca4af-de4d-4b67-8180-cab2043e677d.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to Roles and create an Admin called Highest Admin. Assign them all the previledges. 
 </p>
 <br />
 
+<p>Configuring Departments</p>
+<p>Admin Panel -> Agents -> Departments</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
