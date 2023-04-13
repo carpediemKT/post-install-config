@@ -146,4 +146,6 @@ Navigate to Help Topic, add new help topics; Business Critical Outage, Personal 
 </p>
 <br />
 
+<p>And that brings us to the end of osTicket configuration. Now that we have created; roles, team, and Agents we get to put into practice ticketing and resolving tickets. hope you check out my next post for osTicket Lifecycle.</p>
+
 
