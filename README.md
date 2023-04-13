@@ -121,10 +121,14 @@ Navigate to Users under Agent Panel and Add a new user; Kentrel and Kumba
 <h3>Configuring SLA's</h3>
 <p>Admin Panel -> Manager -> SLA</p>
 <p>
+<img width="1038" alt="Screen Shot 2023-04-13 at 12 02 42 PM" src="https://user-images.githubusercontent.com/88648101/231818507-b8585144-69a3-41db-9ba1-775fac110acf.png">
+<img width="1044" alt="Screen Shot 2023-04-13 at 12 04 06 PM" src="https://user-images.githubusercontent.com/88648101/231819536-ae042822-5b05-4319-940f-fe5c2a00b011.png">
+  <img width="989" alt="Screen Shot 2023-04-13 at 12 08 51 PM" src="https://user-images.githubusercontent.com/88648101/231820046-8a65c4ad-d769-4136-9344-3bc19f1a4f19.png">
 
+<img width="1044" alt="Screen Shot 2023-04-13 at 12 06 01 PM" src="https://user-images.githubusercontent.com/88648101/231819556-a04433aa-51fb-44d3-94e6-109c825ad44a.png">
 </p>
 <p>
-Navigate to Users under Agent Panel and Add a new user; Kentrel and Kumba
+Navigate to SLA under and create SEV A(1hour, 24/7), SEV B(4hours, 24/7), SEV C(8hours, business hours).
 </p>
 <br />
 
