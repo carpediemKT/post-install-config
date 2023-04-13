@@ -123,12 +123,26 @@ Navigate to Users under Agent Panel and Add a new user; Kentrel and Kumba
 <p>
 <img width="1038" alt="Screen Shot 2023-04-13 at 12 02 42 PM" src="https://user-images.githubusercontent.com/88648101/231818507-b8585144-69a3-41db-9ba1-775fac110acf.png">
 <img width="1044" alt="Screen Shot 2023-04-13 at 12 04 06 PM" src="https://user-images.githubusercontent.com/88648101/231819536-ae042822-5b05-4319-940f-fe5c2a00b011.png">
-  <img width="989" alt="Screen Shot 2023-04-13 at 12 08 51 PM" src="https://user-images.githubusercontent.com/88648101/231820046-8a65c4ad-d769-4136-9344-3bc19f1a4f19.png">
-
+ <img width="989" alt="Screen Shot 2023-04-13 at 12 08 51 PM" src="https://user-images.githubusercontent.com/88648101/231820046-8a65c4ad-d769-4136-9344-3bc19f1a4f19.png">
 <img width="1044" alt="Screen Shot 2023-04-13 at 12 06 01 PM" src="https://user-images.githubusercontent.com/88648101/231819556-a04433aa-51fb-44d3-94e6-109c825ad44a.png">
 </p>
 <p>
 Navigate to SLA under and create SEV A(1hour, 24/7), SEV B(4hours, 24/7), SEV C(8hours, business hours).
+</p>
+<br />
+
+<h3>Configuring Help Topics</h3>
+<p>Admin Panel -> Manager -> Help Topics</p>
+<p>
+<img width="1022" alt="Screen Shot 2023-04-13 at 12 12 51 PM" src="https://user-images.githubusercontent.com/88648101/231820999-05a243d2-be35-436d-a253-1763e73e1af5.png">
+<img width="1037" alt="Screen Shot 2023-04-13 at 12 14 38 PM" src="https://user-images.githubusercontent.com/88648101/231821472-783e1113-0026-4dbb-b9e2-9791ec6bab51.png">
+<img width="1062" alt="Screen Shot 2023-04-13 at 12 15 51 PM" src="https://user-images.githubusercontent.com/88648101/231822267-45e54842-1bec-4c6a-8d45-4f034305fcce.png">
+<img width="1043" alt="Screen Shot 2023-04-13 at 12 16 37 PM" src="https://user-images.githubusercontent.com/88648101/231822293-d198c387-09ac-4c30-b44c-6214beba8c99.png">
+<img width="1054" alt="Screen Shot 2023-04-13 at 12 17 10 PM" src="https://user-images.githubusercontent.com/88648101/231822315-46ba0ecf-05a6-48a2-a799-2f723868400d.png">
+
+</p>
+<p>
+Navigate to Help Topic, add new help topics; Business Critical Outage, Personal Computer issues, Equipmennt Request, Password Reset.
 </p>
 <br />
 
